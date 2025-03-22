@@ -28,8 +28,8 @@
 ### Output:
 
 ```
-Name:Naveen kumar.R
-reg.N0:212223230139
+Name:Murali s
+reg.N0:212222230088
 ```
 
 
